@@ -1,0 +1,53 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "fed"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "amount",
+    "type": "Text"
+  },
+  "description": {
+    "__TYPE__": "FieldContent",
+    "value": "pupil",
+    "type": "Text"
+  },
+  "type": {
+    "__TYPE__": "FieldContent",
+    "value": "farm",
+    "type": "Text"
+  },
+  "link": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "ExternalLink",
+      "url": "http://twitter.com"
+    }
+  },
+  "thumbnail": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118",
+      "width": 4160,
+      "height": 3120
+    },
+    "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118",
+    "width": 4160,
+    "height": 3120,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}

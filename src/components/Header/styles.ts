@@ -11,6 +11,7 @@ export const Container = styled.header`
   align-items: center;
   justify-content: center;
   border-bottom: 1px solid ${({ theme }) => theme.backgroundLight};
+  padding: 1rem 0;
 
   ul {
     display: flex;
